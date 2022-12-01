@@ -1,3 +1,6 @@
+canvas {
+  border: 5px solid green
+}
 body {
   padding: 0;
   text-align: center;
